@@ -66,6 +66,7 @@ main{
     position: absolute;
     top: 0;
     width: 40px;
+    cursor: pointer;
 }
 .border-navigate{
     display: block;
@@ -86,6 +87,7 @@ main{
     position: absolute;
     top: 0;
     width: 40px;
+    cursor: pointer;
 }
 
 .slider-pagination{
